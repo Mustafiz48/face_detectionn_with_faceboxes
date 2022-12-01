@@ -1,0 +1,24 @@
+## Ignore pycharm and python generated temporary files
+
+.idea/
+.venv/
+__pycache__
+build/
+dist/
+ai_analyzer_log/
+get_log/
+put_log/
+download_log/
+db/
+realtime_venv/
+# task_pooler.py generated files and media files
+*.mp4
+*.avi
+*.mov
+
+# output file
+*.txt
+
+# image files which may be input
+*.jpg
+*.png
